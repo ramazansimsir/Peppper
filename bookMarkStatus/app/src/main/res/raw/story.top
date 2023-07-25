@@ -1,0 +1,45 @@
+topic: ~story()
+
+concept:(sayilar)[bir iki üç dört beş altı yedi sekiz dokuz on]
+
+
+u:(başla)  %first ^execute(myExecutor) Karlı bir kış günüydü.
+Ceren ve arkadaşları neşe içinde sokağa çıkmışlar gün boyunca oyun oynayarak eğlenmişler. %second ^execute(myExecutor)
+Ertesi gün Ceren okula gitmek için uyandı. Ama o kadar halsizdi ki bir türlü kalkamadı. %third ^execute(myExecutor)
+Kendini hiç iyi hissetmiyordu. Her yeri ağrıyordu, vücudu ateşler içinde  yanıyordu. %fourth ^execute(myExecutor)
+Ceren daha fazla dayanamadı... Tekrar yatağa uzandı... Neler oluyor böyle?. %fifth ^execute(myExecutor)
+Annesi, Ceren'in tekrar güçlenmesi için, daha çok meyve yemesi gerektiğini söylüyordu.
+Ama Ceren'in canı hiçbir şey yemek istemiyordu ki... %sixth ^execute(myExecutor)
+Annesi Ceren'i Doktora götürdü. Doktor, onu iyice muayene ettikten sonra şöyle dedi. %seventh ^execute(myExecutor)
+-Bak Ceren Hastalığı yenmek senin elinde. %eighth İlaçlarını düzenli almalı; meyve ve sebzeyi bol bol  yemelisin. -Özellikle portakal C vitamini deposudur. Her zaman ye ki, sana güç versin. Mikropları yenmek için portakalın
+ cesaretine ve gücüne ihtiyacımız var. Bu yüzden ben ona "Cesur Portakal" diyorum. %nineth ^execute(myExecutor)
+Cesur portakal ne güzel isim diye düşündü, Ceren. Madem vücuduna cesur savaşcılar gerekiyordu o da bol bol meyve ve sebze yedi. Portakalı tabağından hiç eksik etmedi. %tenth ^execute(myExecutor)
+Cesur portakal da Ceren'in mikroplarıyla savaştı. Kahramanlığını bir kere daha gösterdi.
+  %eleventh ^execute(myExecutor) Ceren bir kaç gün sonra yatağından daha dinç kalktı ve sağlıklı olmak dünyanın en değerli hazinesi diye düşündü. %twelveth ^execute(myExecutor)
+  Hemen annesinin yanına koştu ve ona sarıldı. Teşekkür ederim anneciğim, bana öyle baktın ki söz veriyorum
+ bundan sonra hep sözünü dinleyeceğim. %thirteenth ^execute(myExecutor)
+ Ceren'in teşekkür etmesi gereken biri daha vardı. Meyve tabağında duran portakala baktı parıldayan gözlerle, portakalı eline aldı ve sana da teşekkür ederim, "CESUR PORTAKAL" dedi. %fourteen ^execute(myExecutor)
+ Ceren portakalın cesaretini okuldaki arkadaşlarına bir bir anlattı. Arkadaşları da ertesi gün okula cesur portakalları ile geldiler. Kim bilir daha ne kadar çok kahraman meyve ve sebze vardır, diye düşündüler.
+Hikaye bu kadar. Dinlediğiniz için teşekkür ederim!
+   u1:(ben teşekkür ederim) tekrar anlatmamı ister misin?
+   u2:(hayır) hadi size iyi günleeer.
+
+
+
+
+
+
+
+
+
+#u:(how are you) I am like pepper .How are you %second
+#u1:(good) Oo very nice .Are you ready fun ? %third
+#    u2:(no) oh this is so bad
+#    u2:(yes I am ready) this is sound like very nice
+
+
+
+
+
+
+
